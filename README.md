@@ -2,9 +2,15 @@
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## 課程內容
+## 課程大綱
 
-課程內容分為三個部份：React 實作、理論架構與開發環境。
+* 第 1 課：React 101 入門實作
+* 第 2 課：React 101 理論架構
+* 第 3 課：React 開發套件
+
+## 課程說明
+
+課程內容分為三個部份：React 實作、理論架構與開發套件。
 
 React 實作的部份，主要的內容如下：
 
@@ -21,13 +27,13 @@ React 實作的部份，主要的內容如下：
 
 上述主題是採用解說的方式，並不會有太深入的實作，或是理論討論；目的是搭配 React 101 的實作，在實作的過程，一併建立基本的理論基礎。
 
-開發環境部份，內容如下：
+開發套件部份，內容如下：
 
 * Node.js & npm 指令操作
 * react-transform-boilerplate 與 Webpack 環境操作
 * Gulp 指令操作
 
-上述主題僅介紹開發環境的使用，並不會有詳細或完整的使用教學；教學會定位是「上手操作」。
+上述主題僅介紹開發套件與環境的使用，並不會有詳細或完整的使用教學；教學會定位是「上手操作」。
 
 ## 課程目標
 

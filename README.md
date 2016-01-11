@@ -1,5 +1,7 @@
 # React 101：使用 React 打造 Web Frontend 實作訓練
 
+[![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## 課程內容
 
 課程內容分為三個部份：React 實作、理論架構與開發環境。

@@ -1,5 +1,5 @@
 
-<h1 class="hide">React 101 實戰教學：開始用 React 打造 Web Frontend</h1>
+<h1 class="hide">React 101 實戰教學：<br />開始用 React 打造 Web Frontend</h1>
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 

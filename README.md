@@ -62,7 +62,7 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
       <div class="col-md-4 text-center"><img src="https://avatars0.githubusercontent.com/u/2017447?v=3&amp;s=460" width="128" height="128" class="img-circle"></div>
       <div class="col-md-8 text-left">
         <h3 style="font-weight: 400; color: #222; margin-top: 0px;">Casear Chu</h3>
-        <p style="font-weight: 300; color: #222;">...</p>
+        <p style="font-weight: 300; color: #222;">Casear 對於各種前後端技術皆有興趣，曾於Microsoft與TrendMicro任職，2012 獲得Node.js Knockout 台灣區第一名，於JSDC 2014、2015擔任講師，曾致力於建立slidenow(線上markdown編輯slide)，目前興趣轉向IoT，於2015年建立KitchBot，轉至於廚具的系統分享與建立，並獲得聯發科穿戴式比賽亞軍。</p>
       </div>
     </div>
   </div>

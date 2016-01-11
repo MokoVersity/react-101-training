@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+Mokoversity 工作坊：React 系列。
+
 ## 課程大綱
 
 * 第 1 課：React 101 入門實作
@@ -51,9 +53,11 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 
 ## 注意事項
 
+* 課程結束後，有一小時的課後輔導（16:30~17:30）
+
 ## 開課時間
 
-* 時間：2016 年 1 月 23 日（星期六），09:30~16:30
+* 時間：2016 年 1 月 23 日（星期六），09:30~16:30（共計 6 小時）
 * 地點：
 
 

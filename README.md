@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Mokoversity 工作坊：React 系列。
+花很多時間看文件、讀範例，還是覺得不能掌握 React 嗎？Jollen 與 Casear 二位 Web Fullstack Developer 高手聯手，提供高效率的 React 入門課程。透過一個 SlideShow 的專題，讓 React 初學者 6 小時內，跑完入門的實作流程，有效率地成為 React 前端使用者。
 
 ## 課程大綱
 
@@ -59,12 +59,4 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 
 * 時間：2016 年 1 月 23 日（星期六），09:30~16:30（共計 6 小時）
 * 地點：
-
-
-
-
-
-
-
-
 

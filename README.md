@@ -48,8 +48,24 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 
 ## 課程講師
 
-* Jollen
-* Casear
+<section style="background: #fff; padding-bottom: 80px; padding-top: 20px;">
+  <div style="padding-bottom: 0px; padding-bottom: 0px;" class="container">
+    <div style="margin-top: 50px;" class="row">
+      <div class="col-md-4 text-center"><img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle"></div>
+      <div class="col-md-8 text-left">
+        <h3 style="font-weight: 400; color: #222; margin-top: 0px;">Jollen Chen</h3>
+        <p style="font-weight: 300; color: #222;">Jollen 是 Node.js 的全端開發者，正大量使用 Backbone 與 React 開發 IoT 相關的 web frontend 與 single-page application。Jollen 是 Moko365 的技術總監暨講師，也是 WoT.City 物聯網軟體公司的開發者。</p>
+      </div>
+    </div>
+    <div style="margin-top: 50px;" class="row">
+      <div class="col-md-4 text-center"><img src="https://avatars0.githubusercontent.com/u/2017447?v=3&amp;s=460" width="128" height="128" class="img-circle"></div>
+      <div class="col-md-8 text-left">
+        <h3 style="font-weight: 400; color: #222; margin-top: 0px;">Casear Chu</h3>
+        <p style="font-weight: 300; color: #222;">...</p>
+      </div>
+    </div>
+  </div>
+</section>
 
 ## 注意事項
 

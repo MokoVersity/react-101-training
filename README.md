@@ -3,7 +3,7 @@
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-花很多時間看文件、讀範例，還是覺得不能掌握 React 嗎？Jollen 與 Casear 二位 Web Fullstack Developer 高手聯手，提供高效率的 React 入門課程。透過一個 SlideShow 的專題，讓 React 初學者 6 小時內，跑完入門的實作流程，有效率地成為 React 前端使用者。
+不知從何下手學習 React 嗎？即便知道從何處找尋正確文件學習，但花很多時間看文件、讀範例，還是覺得不能掌握 React ！？ Jollen 與 Casear 二位 Web Fullstack Developer 高手聯手，提供高效率的 React 入門課程。透過一個 SlideShow 的專題，讓 React 初學者 6 ＋ 1 小時內，跑完入門的實作流程，有效率地成為 React 前端使用者。
 
 ## 課程大綱
 
@@ -28,7 +28,7 @@ React 實作的部份，主要的內容如下：
 * Babel 重點導覽
 * Vritual DOM 重點導覽
 
-上述主題是採用解說的方式，並不會有太深入的實作，或是理論討論；目的是搭配 React 101 的實作，在實作的過程，一併建立基本的理論基礎。
+上述主題採用解說的方式，並不會有太深入的實作，或是理論討論；目的是搭配 React 101 的實作，在實作的過程，一併建立基本的理論基礎。
 
 開發套件部份，內容如下：
 

@@ -41,7 +41,7 @@ React 實作的部份，主要的內容如下：
 
 ## 課程目標
 
-React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初學者完整實作一次 React 的入門（101作流程。因此，本課程很適合：
+React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初學者完整實作一次 React 的入門（101實作流程）。因此，本課程很適合：
 
 * Web Frontend 初學者
 * 想認識 Single-page application 的初學者

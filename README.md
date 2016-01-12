@@ -35,6 +35,7 @@ React 實作的部份，主要的內容如下：
 * Node.js & npm 指令操作
 * react-transform-boilerplate 與 Webpack 環境操作
 * Gulp 指令操作
+* Flux 概論
 
 上述主題僅介紹開發套件與環境的使用，並不會有詳細或完整的使用教學；教學會定位是「上手操作」。
 

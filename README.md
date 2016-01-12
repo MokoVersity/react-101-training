@@ -7,6 +7,8 @@
 
 不知從何下手學習 React 嗎？即便知道從何處找尋正確文件學習，但花很多時間看文件、讀範例，還是覺得不能掌握 React？Jollen 與 Casear 二位 Web Fullstack Developer 高手聯手，提供高效率的 React 入門課程。透過一個 SlideShow 的專題，讓 React 初學者 6 ＋ 1 小時內，跑完入門的實作流程，有效率地成為 React 前端使用者。
 
+本課程是「React and Redux for IoT Application」的前導課程，對 React 開發 IoT 有興趣的朋友，或是想從 Frontend 的角度進入 IoT 領域的設計師，不要錯過這門課程喔。
+
 ## 課程大綱
 
 * 第 1 課：React 101 入門實作
@@ -21,6 +23,8 @@
 | JSX                | Babel                     | npm           |
 | Component          | Virtual DOM               | Webpack       |
 |                    |                           | Flux          |
+
+技術主題這麼多，請看以下說程說明，了解我們如何為初學者規劃 React 101 工作坊。
 
 ## 課程說明
 

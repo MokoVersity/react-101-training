@@ -52,17 +52,17 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 <section style="background: #fff;">
   <div style="padding-bottom: 0px; padding-bottom: 0px;" class="container">
     <div class="row">
-      <div class="col-md-3 text-left"><img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle"></div>
-      <div class="col-md-9">
-        <h3 style="font-weight: 400;">Jollen Chen</h3>
-        <p style="font-weight: 300; color: #222;">Jollen 是 Node.js 的全端開發者，正大量使用 Backbone 與 React 開發 IoT 相關的 web frontend 與 single-page application。Jollen 是 Moko365 的技術總監暨講師，也是 WoT.City 物聯網軟體公司的開發者。</p>
+      <div class="col-md-2 text-left"><img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle img-responsive"></div>
+      <div class="col-md-10">
+        <h3 style="font-weight: 400; font-size: 1.6em; ">Jollen Chen</h3>
+        <p style="font-weight: 300; color: #222; margin-top: -12px;">Jollen 是 Node.js 的全端開發者，正大量使用 Backbone 與 React 開發 IoT 相關的 web frontend 與 single-page application。Jollen 是 Moko365 的技術總監暨講師，也是 WoT.City 物聯網軟體公司的開發者。</p>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-3"><img src="https://avatars0.githubusercontent.com/u/2017447?v=3&amp;s=460" width="128" height="128" class="img-circle"></div>
-      <div class="col-md-9 text-left">
-        <h3 style="font-weight: 400;">Casear Chu</h3>
-        <p style="font-weight: 300; color: #222;">Casear 對於各種前後端技術皆有興趣，曾於Microsoft與TrendMicro任職，2012 獲得Node.js Knockout 台灣區第一名，於JSDC 2014、2015擔任講師，曾致力於建立slidenow(線上markdown編輯slide)，目前興趣轉向IoT，於2015年建立KitchBot，轉至於廚具的系統分享與建立，並獲得聯發科穿戴式比賽亞軍。</p>
+    <div class="row" style="margin-top: 65px;">
+      <div class="col-md-2"><img src="https://avatars0.githubusercontent.com/u/2017447?v=3&amp;s=460" width="128" height="128" class="img-circle img-responsive"></div>
+      <div class="col-md-10 text-left">
+        <h3 style="font-weight: 400; font-size: 1.6em; ">Casear Chu</h3>
+        <p style="font-weight: 300; color: #222; margin-top: -12px;">Casear 對於各種前後端技術皆有興趣，曾於Microsoft與TrendMicro任職，2012 獲得Node.js Knockout 台灣區第一名，於JSDC 2014、2015擔任講師，曾致力於建立slidenow(線上markdown編輯slide)，目前興趣轉向IoT，於2015年建立KitchBot，轉至於廚具的系統分享與建立，並獲得聯發科穿戴式比賽亞軍。</p>
       </div>
     </div>
   </div>

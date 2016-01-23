@@ -26,7 +26,7 @@ var app = app || {};
 var ListItemWrapper = React.createClass({
   render: function() {
     return (
-        <li><a href='{this.props.html_url}' target='_blank'>{this.props.title}</a></li>
+        <li><a href={this.props.html_url} target='_blank'>{this.props.title}</a></li>
     );
   }
 });

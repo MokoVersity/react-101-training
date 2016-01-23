@@ -33,8 +33,16 @@ var ListItemWrapper = React.createClass({
 
 /** @jsx React.DOM */
 app.ListViewComponent = React.createClass({
+    // If the component is rendered into the DOM ?
+    //
+    // This is a DOM event listeners in a component.
+    // componentDidMount is called after the component is mounted
+    // and has a DOM representation. This is often a place where
+    // you would attach generic DOM events.
     componentDidMount: function() {
         this.props.model.on('change', function() {
+            // Calling forceUpdate() will cause render() to 
+            // be called on the component, skipping shouldComponentUpdate()
             this.forceUpdate();
         }.bind(this));
     },

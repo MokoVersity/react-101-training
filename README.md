@@ -11,3 +11,15 @@
 
 * [React 101 實戰教學：開始用 React 打造 Web Frontend](React-101.md)
 * [React 102 實戰教學：使用 Redux 打造 Notepad App](React-102.md)
+
+如何參加：
+
+* 2016/1/23: 台北班 [React 101 實戰教學：開始用 React 打造 Web Frontend](https://www.mokoversity.com/training/React-101 )
+
+* 2016/3/27: 台北班 [React 101 實戰教學：開始用 React 打造 Web Frontend](https://www.mokoversity.com/training/React-101 )
+
+合作洽談：
+
+* contact@moko365.com
+
+

@@ -5,10 +5,6 @@
 
 本課程延續 React 101 的內容，繼續介紹 React 的進階用法，並學習 Redux 框架。React 與 Redux 的關係是什麼？為什麼 React 要搭配其它框架使用？本課程將從基本的 MVC 架構模式，說明 React 與 Redux 的搭配觀念，課程將以 Todo App 做為實作題目。
 
-不知從何下手學習 React 嗎？即便知道從何處找尋正確文件學習，但花很多時間看文件、讀範例，還是覺得不能掌握 React？Jollen 與 Casear 二位 Web Fullstack Developer 高手聯手，提供高效率的 React 入門課程。透過一個 Notepad MVC 的專題，讓 React 初學者 6 ＋ 1 小時內，延續入門的實作流程，學習以 MVC 架構模式，實作一個筆記本軟體。
-
-本課程是「React and Redux for IoT Application」的前導系列課程，對 React 開發 IoT 有興趣的朋友，或是想從 Frontend 的角度進入 IoT 領域的設計師，不要錯過這個系列課程喔。
-
 ## 課程大綱
 
 * 第 1 課：React 102 進階實作

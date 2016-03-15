@@ -12,8 +12,23 @@
 ## 課程大綱
 
 * 第 1 課：React 101 入門實作
+ * 簡單介紹 React 在 MVC 架構中扮演的角色
+ * 關於 View 的觀念介紹
+ * Component 的建立與使用
+ * JSX 語法簡單上手
+ * JavaScript 與 ES6 (ES2016) 語法要點
+ * 第一個 Web Frontend
 * 第 2 課：React 101 基礎與理論架構
+ * React 的 Virtual DOM 技術介紹
+ * React 的 MVC 架構討論
+ * React 與 Single-Page Application
+ * 關於 View 與 Renderer 的討論
 * 第 3 課：React 開發套件
+ * Node.js 與 npm 操作
+ * 學習 Webpack 設定檔
+ * 使用 Webpack 與指令操作
+ * 使用 Babel 與指令操作
+ * 學習基本的連續整合發佈 (CI) 
 
 ## 學習藍圖
 

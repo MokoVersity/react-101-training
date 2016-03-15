@@ -21,8 +21,8 @@
 * 第 2 課：React 101 基礎與理論架構
  * React 的 Virtual DOM 技術介紹
  * React 的 MVC 架構討論
- * React 與 Single-Page Application
- * 關於 View 與 Renderer 的討論
+ * 認識 State 與 State Container
+ * 關於 View 與 Single-Page Application 的討論
 * 第 3 課：React 開發套件
  * Node.js 與 npm 操作
  * 學習 Webpack 設定檔

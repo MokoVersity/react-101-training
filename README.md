@@ -89,6 +89,10 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 * 時間：2016 年 3 月 27 日（星期日），09:30~17:30（共計 7 小時）
 * 地點： 台北市博愛路 25 號 3F
 
+## 開課紀錄
+
+* 2016/1/23: 台北班 React 101 實戰教學：開始用 React 打造 Web Frontend (已結訓)
+
 ## 延伸課程
 
 * 4 月 17 日（星期日）台北班：[React 102 實戰教學： 使用 Redux 打造 Notepad App](https://www.mokoversity.com/training/React-102)

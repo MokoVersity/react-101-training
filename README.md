@@ -16,7 +16,7 @@
  * 關於 View 的觀念介紹
  * Component 的建立與使用
  * JSX 語法簡單上手
- * JavaScript 與 ES6 (ES2016) 語法要點
+ * ES6 (ES2016) 語法練習與 Babel
  * 第一個 Web Frontend
 * 第 2 課：React 101 基礎與理論架構
  * React 的 Virtual DOM 技術介紹

@@ -114,6 +114,7 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 
 
 * 2016/3/27: 台北班 React 101 實戰教學：開始用 React 打造 Web Frontend (第二期確定開課，招生中)
+
 |上課照片：2016/3/27 第二期 |
 |---|
 |<img src="https://cloud.githubusercontent.com/assets/5070688/14104804/be6274d6-f5d9-11e5-93b4-1f50358fd426.jpg">|

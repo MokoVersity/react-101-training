@@ -81,7 +81,7 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
     <div class="row">
       <div class="col-md-2 text-left"><img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle img-responsive"></div>
       <div class="col-md-10">
-        <h3 style="font-weight: 400; font-size: 1.6em; ">Jollen Chen (第 3 梯次主講者)</h3>
+        <h3 style="font-weight: 400; font-size: 1.6em; ">Jollen Chen </h3>
         <p style="font-weight: 300; color: #222; margin-top: -12px;">Jollen 是 Node.js 的全端開發者，正大量使用 Backbone 與 React 開發 IoT 相關的 web frontend 與 single-page application。Jollen 是 Moko365 的技術總監暨講師，也是 WoT.City 物聯網軟體公司的開發者。</p>
       </div>
     </div>
@@ -119,7 +119,7 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 |---|
 |<img src="https://cloud.githubusercontent.com/assets/5070688/14104804/be6274d6-f5d9-11e5-93b4-1f50358fd426.jpg">|
 
-* 2016/9/03: 台北班 React 101 實戰教學：開始用 React 打造 Web Frontend (第三期 Jollen Chen 主講，報名中)
+
 
 ## 延伸課程
 

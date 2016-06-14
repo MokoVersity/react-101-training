@@ -1,5 +1,5 @@
 
-<h1 class="hide">React 101 實戰教學：<br />開始用 React 打造 Web Frontend (第 2 梯次)</h1>
+<h1 class="hide">React 101 實戰教學：<br />開始用 React 打造 Web Frontend (第 3 梯次)</h1>
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -101,7 +101,7 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 
 ## 開課時間
 
-* 時間：2016 年 3 月 27 日（星期日），09:30~17:30（共計 7 小時）
+* 時間：2016 年 9 月 03 日（星期日），09:30~17:30（共計 7 小時）
 * 地點： 台北市博愛路 25 號 3F
 
 ## 開課紀錄

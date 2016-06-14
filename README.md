@@ -123,4 +123,4 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 
 ## 延伸課程
 
-* 4 月 24 日（星期日）台北班：[React 102 實戰教學： 使用 Redux 打造 Notepad App](https://www.mokoversity.com/training/React-102)
+* 9 月 04 日（星期日）台北班：[React 102 實戰教學： 使用 Redux 打造 Notepad App](https://www.mokoversity.com/training/React-102)

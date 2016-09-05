@@ -95,32 +95,14 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
   </div>
 </section>
 
-## 注意事項
-
-* 課程有一小時的專題指導時間（16:30~17:30）
-
 ## 開課時間
 
-* 時間：2016 年 未定（星期日），09:30~17:30（共計 7 小時）
+* 時間：平日下什班、共計 7 小時
+ * Day 1: 2016/10/5（三）14:00-17:30
+ * Day 2: 2016/10/6（四）14:00-17:30
 * 地點： 台北市博愛路 25 號 3F
 
 ## 開課紀錄
 
-* 2016/1/23: 台北班 React 101 實戰教學：開始用 React 打造 Web Frontend (第一期，已結訓)
-
-|上課照片：2016/1/23 第一期 |
-|---|
-|<img src="https://cloud.githubusercontent.com/assets/5070688/13974882/d385f61a-f0ea-11e5-9811-b2364468c35a.jpg">|
-
-
-* 2016/3/27: 台北班 React 101 實戰教學：開始用 React 打造 Web Frontend (第二期 Jollen Chen 主講，已結訓)
-
-|上課照片：2016/3/27 第二期 |
-|---|
-|<img src="https://cloud.githubusercontent.com/assets/5070688/14104804/be6274d6-f5d9-11e5-93b4-1f50358fd426.jpg">|
-
-
-
-## 延伸課程
-
-* 台北班：[React 102 實戰教學： 使用 Redux 打造 Notepad App](https://www.mokoversity.com/training/React-102)
+* 2016/3/27: 台北班 React 101 實戰教學：開始用 React 打造 Web Frontend (第 2 期，已結訓)
+* 2016/1/23: 台北班 React 101 實戰教學：開始用 React 打造 Web Frontend (第 1 期，已結訓)

@@ -12,38 +12,40 @@
 ## 課程大綱
 
 * 第 1 課：React 101 入門實作
- * 簡單介紹 React 在 MVC 架構中扮演的角色
- * 關於 View 的觀念介紹
+ * Node.js 與 npm 操作
+ * React Biolerplate 開發環境演練
+ * React 在 MVC 架構的角色
+ * 關於 React Views 的觀念介紹
  * Component 的建立與使用
  * JSX 語法簡單上手
  * ES6 (ES2016) 語法練習與 Babel
  * 第一個 Web Frontend
+ 
 * 第 2 課：React 101 基礎與理論架構
  * React 的 Virtual DOM 技術介紹
  * React 的 MVC 架構討論
  * 認識 State 與 State Container
  * 關於 View 與 Single-Page Application 的討論
-* 第 3 課：React 開發套件
- * Node.js 與 npm 操作
- * 學習 Webpack 設定檔
- * 使用 Webpack 與指令操作
- * 使用 Babel 與指令操作
- * 學習基本的連續整合發佈 (CI) 
+ 
+* 第 3 課：React 與 Flux 架構模式演練
+ * Flux 架構模式的使用場景
+ * 5 個步驟學會 Flux 模式
+ * 使用 Flux 模式整合 Backend APIs
+ * 使用 Flux 模式整合 IoT real-time data
 
 ## 學習藍圖
 
-| React 101 入門實作 | React 101 基礎與理論架構  | React 開發套件 |
+| React 101 入門實作 | React 101 基礎與理論架構  | Flux 架構模式 |
 | ------------------ | ------------------------- | ------------- |
-| React              | ES6                       | Node.js       |
-| JSX                | Babel                     | npm           |
-| Component          | Virtual DOM               | Webpack       |
-|                    |                           | Flux          |
+| React              | ES6                       | Reactive     |
+| JSX                | Babel                     | Dispatcher    |
+| Component          | Virtual DOM               | Stateless       |
 
 技術主題這麼多，請看以下說明，了解我們如何為初學者規劃 React 101 工作坊。
 
 ## 課程說明
 
-課程內容分為三個部份：React 實作、理論架構與開發套件。React 實作的部份，主要的內容如下：
+課程內容分為三個部份：React 實作、理論架構與 Flux 模式。React 實作的部份，主要的內容如下：
 
 * 認識 React 與 Component 觀念
 * React 101 上手操作
@@ -56,27 +58,34 @@
 * Babel 重點導覽
 * Vritual DOM 重點導覽
 
-上述主題是採用解說的方式，並不會有太深入的實作，或是理論討論；目的是搭配 React 101 的實作，在實作的過程，一併建立基本的理論基礎。開發套件部份，內容如下：
+上述主題是採用解說的方式，並不會有太深入的實作，或是理論討論；目的是搭配 React 101 的實作，在實作的過程，一併建立基本的理論基礎。
 
-* Node.js & npm 指令操作
-* react-transform-boilerplate 與 Webpack 環境操作
-* Gulp 指令操作
-* Flux 概論
+學習 Flux 架構模式，是為了能撰寫高度可維護，以及更大型的 Web App：
 
-上述主題僅介紹開發套件與環境的使用，並不會有詳細或完整的使用教學；教學會定位是「上手操作」。
+* 了解 Reactive 程式設計模式
+* 認識 Dispatcher，以及了解 Unidirectional data flow 
+* 認識 Stateless component，以及 Flux 模式的精神
+* Step-by-step 方式將 Flux 模式演練一次
+
+本課程採取工作坊形式，教學定位是「初學者入門與上手」。
 
 ## 課程目標
 
-React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初學者完整實作一次 React 的入門（Level 101 實作流程）。因此，本課程很適合：
+React 101 採用工作坊的形式，搭配 2 個專題：
+
+* SlideShow 專題，讓初學者完整實作一次 React 的入門（Level 101 實作流程）
+* Real-time IoT dashboard 專題，讓初學者完整演練整個 Flux 模式實作，並再次練習 React 入門觀念
+ 
+因此，本課程很適合：
 
 * Web Frontend 初學者
 * 想認識 Single-page application 的初學者
 * 想開始接觸 React 的設計師
 * 想認識 React 前端技術的產品經理
 
-## 課程講師
+## 講師團隊
 
-<section style="background: #fff;">
+<section style="background: #fff; font-family: 'Roboto Slab', 'Open Sans'">
   <div style="padding-bottom: 0px; padding-bottom: 0px;" class="container">
     <div class="row">
       <div class="col-md-2 text-left"><img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle img-responsive"></div>
@@ -97,7 +106,7 @@ React 101 採用工作坊的形式，搭配一個 SlideShow 的專題，讓初�
 
 ## 開課時間
 
-* 時間：平日下什班、共計 7 小時
+* 時間：平日下午班，2 個下午、共計 7 小時
  * Day 1: 2016/10/5（三）14:00-17:30
  * Day 2: 2016/10/6（四）14:00-17:30
 * 地點： 台北市博愛路 25 號 3F

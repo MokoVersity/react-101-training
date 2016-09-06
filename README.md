@@ -85,24 +85,13 @@ React 101 採用工作坊的形式，搭配 2 個專題：
 
 ## 講師團隊
 
-<section style="background: #fff; font-family: 'Roboto Slab', 'Open Sans'">
-  <div style="padding-bottom: 0px; padding-bottom: 0px;" class="container">
-    <div class="row">
-      <div class="col-md-2 text-left"><img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle img-responsive"></div>
-      <div class="col-md-10">
-        <h3 style="font-weight: 400; font-size: 1.6em; ">Jollen Chen </h3>
-        <p style="font-weight: 300; color: #222; margin-top: -12px;">Jollen 是 Node.js 的全端開發者，正大量使用 Backbone 與 React 開發 IoT 相關的 web frontend 與 single-page application。Jollen 是 Moko365 的技術總監暨講師，也是 WoT.City 物聯網軟體公司的開發者。</p>
-      </div>
-    </div>
-    <div class="row" style="margin-top: 65px;">
-      <div class="col-md-2"><img src="https://avatars0.githubusercontent.com/u/2017447?v=3&amp;s=460" width="128" height="128" class="img-circle img-responsive"></div>
-      <div class="col-md-10 text-left">
-        <h3 style="font-weight: 400; font-size: 1.6em; ">Casear Chu</h3>
-        <p style="font-weight: 300; color: #222; margin-top: -12px;">Casear 對於各種前後端技術皆有興趣，曾於Microsoft與TrendMicro任職，2012 獲得Node.js Knockout 台灣區第一名，於JSDC 2014、2015擔任講師，曾致力於建立slidenow(線上markdown編輯slide)，目前興趣轉向IoT，於2015年建立KitchBot，轉至於廚具的系統分享與建立，並獲得聯發科穿戴式比賽亞軍。</p>
-      </div>
-    </div>
-  </div>
-</section>
+<img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle img-responsive">
+<h3>Jollen Chen </h3>
+<p>Jollen，Node.js 全端開發者、Moko365 的技術總監暨講師。正使用 React 與 Node.js 開發 Decentralized IoT 與 P2P IoT 的專案。</p>
+<br >
+<img src="https://avatars0.githubusercontent.com/u/2017447?v=3&amp;s=460" width="128" height="128" class="img-circle img-responsive">
+<h3>Casear Chu</h3>
+<p>Casear，對於前後端技術皆有興趣，曾於 Microsoft 與 TrendMicro 任職，於 2012 年獲得 Node.js Knockout 台灣區第一名。曾於 JSDC 2014、2015 擔任講師，也是 SlideNow（線上 Markdown 編輯 Slides）的創辦人。目前興趣轉向 IoT，於 2015 年建立 KitchBot，轉至於廚具的系統分享與建立，並獲得聯發科穿戴式比賽亞軍。</p>
 
 ## 開課時間
 

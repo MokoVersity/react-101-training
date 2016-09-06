@@ -9,7 +9,7 @@
 
 本課程是「React and Redux for IoT Application」的前導課程，對 React 開發 IoT 有興趣的朋友，或是想從 Frontend 的角度進入 IoT 領域的設計師，不要錯過這門課程喔。
 
-## 課程大綱
+### 課程大綱
 
 * 第 1 課：React 101 入門實作
  * Node.js 與 npm 操作
@@ -33,7 +33,7 @@
  * 使用 Flux 模式整合 Backend APIs
  * 使用 Flux 模式整合 IoT real-time data
 
-## 學習藍圖
+### 學習藍圖
 
 | React 101 入門實作 | React 101 基礎與理論架構  | Flux 架構模式 |
 | ------------------ | ------------------------- | ------------- |
@@ -43,7 +43,7 @@
 
 技術主題這麼多，請看以下說明，了解我們如何為初學者規劃 React 101 工作坊。
 
-## 課程說明
+### 課程說明
 
 課程內容分為三個部份：React 實作、理論架構與 Flux 模式。React 實作的部份，主要的內容如下：
 
@@ -69,21 +69,23 @@
 
 本課程採取工作坊形式，教學定位是「初學者入門與上手」。
 
-## 課程目標
+### 專題演練
 
 React 101 採用工作坊的形式，搭配 2 個專題：
 
 * SlideShow 專題，讓初學者完整實作一次 React 的入門（Level 101 實作流程）
 * Real-time IoT dashboard 專題，讓初學者完整演練整個 Flux 模式實作，並再次練習 React 入門觀念
  
-因此，本課程很適合：
+### 課程對象
+
+本課程適合：
 
 * Web Frontend 初學者
 * 想認識 Single-page application 的初學者
 * 想開始接觸 React 的設計師
 * 想認識 React 前端技術的產品經理
 
-## 講師團隊
+### 講師團隊
 
 <img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle img-responsive">
 <h3>Jollen Chen </h3>
@@ -93,14 +95,14 @@ React 101 採用工作坊的形式，搭配 2 個專題：
 <h3>Casear Chu</h3>
 <p>Casear，對於前後端技術皆有興趣，曾於 Microsoft 與 TrendMicro 任職，於 2012 年獲得 Node.js Knockout 台灣區第一名。曾於 JSDC 2014、2015 擔任講師，也是 SlideNow（線上 Markdown 編輯 Slides）的創辦人。目前興趣轉向 IoT，於 2015 年建立 KitchBot，轉至於廚具的系統分享與建立，並獲得聯發科穿戴式比賽亞軍。</p>
 
-## 開課時間
+### 開課時間
 
 * 時間：平日下午班，2 個下午、共計 7 小時
  * Day 1: 2016/10/5（三）14:00-17:30
  * Day 2: 2016/10/6（四）14:00-17:30
 * 地點： 台北市博愛路 25 號 3F
 
-## 開課紀錄
+### 開課紀錄
 
 * 2016/3/27: 台北班 React 101 實戰教學：開始用 React 打造 Web Frontend (第 2 期，已結訓)
 * 2016/1/23: 台北班 React 101 實戰教學：開始用 React 打造 Web Frontend (第 1 期，已結訓)

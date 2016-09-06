@@ -87,13 +87,18 @@ React 101 採用工作坊的形式，搭配 2 個專題：
 
 ### 講師團隊
 
-<img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle img-responsive">
+<div>
+<img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle img-responsive pull-right">
 <h3>Jollen Chen </h3>
 <p>Jollen，Node.js 全端開發者、Moko365 的技術總監暨講師。正使用 React 與 Node.js 開發 Decentralized IoT 與 P2P IoT 的專案。</p>
+</div>
+
 <br >
-<img src="https://avatars0.githubusercontent.com/u/2017447?v=3&amp;s=460" width="128" height="128" class="img-circle img-responsive">
+<div>
+<img src="https://avatars0.githubusercontent.com/u/2017447?v=3&amp;s=460" width="128" height="128" class="img-circle img-responsive pull-right">
 <h3>Casear Chu</h3>
 <p>Casear，對於前後端技術皆有興趣，曾於 Microsoft 與 TrendMicro 任職，於 2012 年獲得 Node.js Knockout 台灣區第一名。曾於 JSDC 2014、2015 擔任講師，也是 SlideNow（線上 Markdown 編輯 Slides）的創辦人。目前興趣轉向 IoT，於 2015 年建立 KitchBot，轉至於廚具的系統分享與建立，並獲得聯發科穿戴式比賽亞軍。</p>
+</div>
 
 ### 開課時間
 

@@ -5,9 +5,7 @@
 
 本課程採用工作坊形式，學習 React 的入門知識（Level 101）。React 101 實戰教學的理念：有效率地入門 React 前端開發。
 
-不知從何下手學習 React 嗎？即便知道從何處找尋正確文件學習，但花很多時間看文件、讀範例，還是覺得不能掌握 React？Jollen 與 Casear 二位 Web Fullstack Developer 高手聯手，提供高效率的 React 入門課程。透過一個 SlideShow 的專題，讓 React 初學者 6 ＋ 1 小時內，跑完入門的實作流程，有效率地成為 React 前端使用者。
-
-本課程是「React and Redux for IoT Application」的前導課程，對 React 開發 IoT 有興趣的朋友，或是想從 Frontend 的角度進入 IoT 領域的設計師，不要錯過這門課程喔。
+不知從何下手學習 React 嗎？即便知道從何處找尋正確文件學習，但花很多時間看文件、讀範例，還是覺得不能掌握 React？Jollen 與 Casear 二位 Web Fullstack Developer 開發者，共同設計與規劃高效率的 React 入門課程。透過 2 個上機專題：SlideShow 與 Real-time IoT Dashboard，讓 React 初學者 6 小時內，跑完入門的實作流程，有效率地成為 React 前端使用者。
 
 ### 課程大綱
 
@@ -102,9 +100,9 @@ React 101 採用工作坊的形式，搭配 2 個專題：
 
 ### 開課時間
 
-* 時間：平日下午班，2 個下午、共計 7 小時
- * Day 1: 2016/10/5（三）14:00-17:30
- * Day 2: 2016/10/6（四）14:00-17:30
+* 時間：平日下午班，2 個下午、共計 6 小時
+ * Day 1: 2016/10/5（三）14:00-17:00
+ * Day 2: 2016/10/6（四）14:00-17:00
 * 地點： 台北市博愛路 25 號 3F
 
 ### 開課紀錄

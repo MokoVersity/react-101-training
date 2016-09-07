@@ -18,13 +18,11 @@
  * JSX 語法簡單上手
  * ES6 (ES2016) 語法練習與 Babel
  * 第一個 Web Frontend
- 
 * 第 2 課：React 101 基礎與理論架構
  * React 的 Virtual DOM 技術介紹
  * React 的 MVC 架構討論
  * 認識 State 與 State Container
  * 關於 View 與 Single-Page Application 的討論
- 
 * 第 3 課：React 與 Flux 架構模式演練
  * Flux 架構模式的使用場景
  * 5 個步驟學會 Flux 模式

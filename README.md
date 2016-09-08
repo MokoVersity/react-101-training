@@ -1,6 +1,3 @@
-
-<h1 class="hide">React 101 實戰教學：<br />開始用 React 打造 Web Frontend (第 3 梯次)</h1>
-
 <p class="lead">你將在課堂中，從零開始入門 React.js，並獨立完成一個物聯網的溫度監控儀表板（Real-time Dashboard）。</p>
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -19,12 +16,12 @@
  * Component 的建立與使用
  * JSX 語法簡單上手
  * ES6 (ES2016) 語法練習與 Babel
- * 第一個 Web Frontend
+ * 第一個 Web Frontend<br /><br />
 * 第 2 課：React 101 基礎與理論架構
  * React 的 Virtual DOM 技術介紹
  * React 的 MVC 架構討論
  * 認識 State 與 State Container
- * 關於 View 與 Single-Page Application 的討論
+ * 關於 View 與 Single-Page Application 的討論<br /><br />
 * 第 3 課：React 與 Flux 架構模式演練
  * Flux 架構模式的使用場景
  * 5 個步驟學會 Flux 模式
@@ -43,7 +40,7 @@
 
 ### 課程說明
 
-課程內容分為三個部份：React 實作、理論架構與 Flux 模式。React 實作的部份，主要的內容如下：
+課程內容分為 3 個部份：React 實作、理論架構與 Flux 模式。React 實作的部份，主要的內容如下：
 
 * 認識 React 與 Component 觀念
 * React 101 上手操作

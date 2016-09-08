@@ -1,6 +1,10 @@
 
 <h1 class="hide">React 101 實戰教學：<br />開始用 React 打造 Web Frontend (第 3 梯次)</h1>
 
+## 課程說明
+
+<p class="lead">你將在課堂中，從零開始入門 React.js，並獨立完成一個物聯網的溫度監控儀表板（Real-time Dashboard）。</p>
+
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 本課程採用工作坊形式，學習 React 的入門知識（Level 101）。React 101 實戰教學的理念：有效率地入門 React 前端開發。

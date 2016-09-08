@@ -2,11 +2,11 @@
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-本課程採用工作坊形式，學習 React 的入門知識（Level 101）。React 101 實戰教學的理念：有效率地入門 React 前端開發。
-
 不知從何下手學習 React 嗎？即便知道從何處找尋正確文件學習，但花很多時間看文件、讀範例，還是覺得不能掌握 React？Jollen 與 Casear 二位 Web Fullstack Developer 開發者，共同設計與規劃高效率的 React 入門課程。透過 2 個上機專題：SlideShow 與 Real-time IoT Dashboard，讓 React 初學者 6 小時內，跑完入門的實作流程，有效率地成為 React 前端使用者。
 
 ### 課程大綱
+
+> 本課程採用工作坊形式，學習 React 的入門知識（Level 101）。React 101 實戰教學的理念：有效率地入門 React 前端開發。
 
 * 第 1 課：React 101 入門實作
  * Node.js 與 npm 操作

@@ -1,4 +1,4 @@
-<p class="lead">你將在課堂中，從零開始入門 React.js，並獨立完成一個物聯網的溫度監控儀表板（Real-time Dashboard）。</p>
+<p class="lead">你將在課堂中，從零開始入門 React.js，並獨立完成一個物聯網的溫度監控儀表板（Real-time Dashboard）。課堂將步驟式引導：以 Flux 模式來串連 WebSocket 通訊協定，以接收 Real-Time Sensor Data。</p>
 
 [![Join the chat at https://gitter.im/MokoVersity/react-101-training](https://badges.gitter.im/MokoVersity/react-101-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
